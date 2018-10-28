@@ -1,2 +1,2 @@
 How to fix collision in git?
-Helen update
+Helen update2
